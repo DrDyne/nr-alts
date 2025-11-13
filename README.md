@@ -4,6 +4,8 @@ You'll find a collection of custom Netrunner cards in this repo.
 
 Please do not sell without my consent, please be mindful to the environment when printing.
 
+![cover-ryo](https://github.com/DrDyne/nr-alts/blob/main/cover-ryo.png)
+
 ---
 
 https://proxynexus.net/instructions.html
