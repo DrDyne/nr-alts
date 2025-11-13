@@ -10,7 +10,7 @@ Please do not sell without my consent, please be mindful to the environment when
 
 https://proxynexus.net/instructions.html -- instructions to make an online order to MPC (see next link)
 
-https://www.makeplayingcards.com/sell/marketplace/netrunner-corporation-mega-pack.html?srsltid=AfmBOoqLyY6r7CZXiRcId2T0IdopPUPYs9Zm_-sJL0icq5ZFWUN-9kGr -- prints and sends cards to your home for a fee
+https://www.makeplayingcards.com/sell/marketplace/netrunner-corporation-mega-pack.html?srsltid=AfmBOoqLyY6r7CZXiRcId2T0IdopPUPYs9Zm_-sJL0icq5ZFWUN-9kGr -- pro printer business, will print and send cards to you for a fee - use only if you want top quality cards
 
 https://nullsignal.games/blog/announcing-print-play-for-netrunnerdb/ -- inspiration for this repo
 
