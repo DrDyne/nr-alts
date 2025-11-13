@@ -1,4 +1,4 @@
-Welcome to the nr-alts wiki!
+Welcome to nr-alts.
 
 You'll find a collection of custom Netrunner cards in this repo.
 
